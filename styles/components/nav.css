@@ -1,0 +1,15 @@
+.nav-item {
+  display: inline-block;
+  color: #ffffff;
+  line-height: 14px;
+  padding: 10px 30px;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.nav-item:hover {
+  text-decoration: underline;
+}
+.nav-item.is-active {
+  text-decoration: underline;
+}
